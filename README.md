@@ -1,17 +1,21 @@
 # To-do-app-
 Frontend Todo App using HTML, CSS &amp; JavaScript with task management features (Add, Delete, Complete,).
 🚀 Todo Manager Web Application
+🚀 Todo Manager Web Application
 
-A simple and responsive Todo app built using HTML, CSS, and JavaScript.
+A responsive Todo App built using HTML, CSS and JavaScript.
 
-🔧 Features:
+✨ Features:
 - Add tasks
 - Delete tasks
-- Mark as completed
+- Mark complete / pending
 - Filter tasks
 
+🔧 Tech Stack:
+HTML, CSS, JavaScript
+
 🔗 Live Demo:
-https://your-username.github.io/todo-app/
+https://yj567607-pixel.github.io/todo-app/
 
 💻 GitHub:
-https://github.com/your-username/todo-app
+https://github.com/yj567607-pixel/todo-app
